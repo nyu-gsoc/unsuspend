@@ -47,6 +47,14 @@ p {
 	margin-right: 18%;
 }
 
+details {
+	width:40%;
+	margin-left: 30%;
+	margin-top: 3%;
+}
+
+details p {width: 100%;margin-left: 0%;}
+
 a {
 	color: black;
 	text-decoration: none !important;
@@ -97,6 +105,14 @@ h1 {
 		width: 90%;
 		margin-left: 5%;
 	}
+
+	details {
+	width:60%;
+	margin-left: 15%;
+	margin-top: 3%;
+}
+
+
 }
 
 @media screen and (max-width: 400px) {
@@ -117,6 +133,13 @@ h1 {
 		margin-left: 2%;
 		margin-right: 2%;
 	}
+
+	details {
+	width:70%;
+	margin-left: 15%;
+	margin-top: 3%;
+}
+
 
 }
 
